@@ -1,0 +1,133 @@
+#border-wrapper{
+    height: 245vh;
+}
+#homepage-wrapper{
+    font-family: 'Nunito Sans', sans-serif;
+    height: 100vh;
+}
+#a-wrapper{
+
+    height: 75%;
+    text-align: center;
+    padding: 0 1% 1% 1%; 
+}
+#a-card-wrapper{
+    height: 100%;
+    width: 100%;  
+
+}
+.a-wrapper-card{ 
+    vertical-align: top;  
+    display: inline-block;
+    height: 95%;
+    width: 49%;
+    
+}
+#a-wrapper-lcard{
+    background-color: #fff5f5;
+    text-align: left;
+}
+#a-lcard-text-wrapper{
+    margin-left: 15%;
+    margin-top: 25%;
+    font-weight: bold;
+    font-size: 45px;
+}
+.home-contact-button{
+    background-color: #454545; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 5%;
+}
+#a-wrapper-rcard{
+    background-image: url(../static/citrus.jpg);
+    margin-left: 1%;
+    background-size: 100% 100%;
+}
+#b-wrapper{
+    height: 35%;
+    margin-top: 1%;
+    padding: 1%;
+}
+#b-wrapper-card{
+    
+    height: 100%
+}
+#c-wrapper{
+    height: 45%;
+    margin-top: 1%;
+    text-align: center;
+}
+.c-wrapper-card{
+    background-color: #fff5f5;
+    display: inline-block;
+    vertical-align: top;
+    height: 90%;
+    width: 25%;
+    margin-top: 1%;
+    color: #454545;
+    font-size: 25px;
+    line-height: 50px;
+    vertical-align: top;
+
+}
+.c-wrapper-card i{
+    font-size: 50px;
+}
+#c-wrapper-lcard{}
+#c-wrapper-mcard{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#c-wrapper-rcard{}
+#d-wrapper{
+    background-color: #fff5f5;
+    height: 60%;
+    margin-top: 3%;
+    padding: 1%;
+}
+#d-wrapper-shell{
+    height: 85%;
+    text-align: center;
+}
+.d-wrapper-card{
+    display:inline-block;
+    vertical-align: top;
+    background-color: #ffc2c2;
+    width: 40%;
+    margin-top: 1%;
+    height: 85%;
+}
+#d-wrapper-lcard{
+    text-align: left;
+    color: #454545;
+    font-size: 20px;
+    line-height: 45px;
+    font-weight: bold;
+}
+#d-message{
+    margin-top: 4%;
+    margin-left: 2%;
+}
+#connect-text{
+    font-size: 25px;
+}
+#d-wrapper-rcard{
+    margin-left: 5%;
+
+}
+#d-wrapper-rcard mat-form-field {
+    margin: 2%;
+    font-size: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 70%;
+  }
+  #form-submit{
+      width: 70%;
+  }

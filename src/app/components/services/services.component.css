@@ -1,0 +1,50 @@
+#services-wrapper{
+
+    height: 150vh;
+    margin-bottom: 1vh;
+    padding-bottom: 27%;
+    font-family: 'Nunito Sans', sans-serif;
+}
+#title-wrapper{
+    height: 5%;
+    padding-top: 2%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+}
+#top-pic-wrapper{
+    text-align: center;
+    height: 35%;
+    padding: 2%;
+}
+.top-pic{
+    display: inline-block;
+    height: 95%;
+    width: 25%;
+}
+#left-pic{
+    background-image: url(../static/hands-hold-red-apple.jpg);
+    background-size: 100% 100%;
+}
+#mid-pic{
+    background-image: url(../static/close-up-of-seasoned-chickpeas.jpg);
+    background-size: 100% 100%;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+#right-pic{
+    background-image: url(../static/fruit-bowl-with-linnens.jpg);
+    background-size: 100% 100%;
+}
+#flow-wrapper{
+    border: solid black;
+    height: 25%;
+}
+#service-card-wrapper{
+    border: solid black;
+    height: 45%;
+}
+#service-contact-wrapper{
+    border: solid black;
+    height: 25%;
+}

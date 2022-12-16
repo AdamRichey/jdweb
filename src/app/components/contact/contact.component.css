@@ -1,0 +1,59 @@
+#contactform{
+    width: 65%;
+    margin: 4%;
+    text-align: center;
+    display: inline-block;
+    background-color: #fff5f5;
+
+}
+#contactform mat-card-title{
+    font-size: 2em;
+    padding: 5%;
+    background-color:#ffc2c2;
+    }
+
+.homeform{
+    display: block;
+    width: 33%;
+    font-size: 1.5em;
+    width: 100%;
+}
+.homeform textarea{
+    height: 5em;
+}
+#contactform button{
+    background-color: #454545; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2em;
+}
+
+#contactright{
+    width: 25%;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 4%;
+    text-align: center;
+}
+
+.rightcards{
+    width: 100%;
+    height: 20%;
+    margin-bottom:10%;
+    background-color: #fff5f5;
+}
+
+.rightcards mat-card-title{
+    font-size: 2em;
+    padding: 5%;
+    background-color:#ffc2c2;
+}
+
+#contactright .rightcards mat-card-content{
+    margin: 5%;
+    font-size: large;
+}

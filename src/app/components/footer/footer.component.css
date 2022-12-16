@@ -1,0 +1,19 @@
+mat-toolbar{
+    background-color: white;
+    margin-top: 50px;
+}
+#footerm{
+    padding-top: 5vh;
+    width:100%;
+    background-color: white;
+    font-family: 'Nunito Sans', sans-serif;
+    padding-left: 2vw;
+    text-align: center;
+}
+#footerm i{
+    display: inline-block;
+    margin: 1vw;
+}
+a{
+    text-decoration: none;
+}
